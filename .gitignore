@@ -106,3 +106,6 @@ venv.bak/
 # Sublime
 .sublime-project
 .sublime-workspace
+
+# MacOS
+.DS_Store
