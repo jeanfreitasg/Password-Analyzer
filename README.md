@@ -11,7 +11,7 @@ Analyzes a passwword to determine its strength
 - Isn't a word, verify using the ['Language Detection API'](https://detectlanguage.com/languages)
 
 Usage Example:
-```
+```python
 from password_analyzer import PasswordAnalyzer
 from termcolor import colored
 import getpass
